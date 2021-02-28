@@ -1,0 +1,230 @@
+# depslib dependency file v1.0
+1462492680 source:c:\users\matito\documents\proyecto e.l.f.a v1.0\arbol.c
+	"arbol.h"
+	<stdio.h>
+	<stdlib.h>
+
+1462492680 c:\users\matito\documents\proyecto e.l.f.a v1.0\arbol.h
+	<stdio.h>
+	<stdlib.h>
+
+1462492062 source:c:\users\matito\documents\proyecto e.l.f.a v1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
+1462640476 source:c:\users\matito\documents\proyecto e.l.f.a v1.0\proyecto e.l.f.a v1.0\array.c
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1462638704 c:\users\matito\documents\proyecto e.l.f.a v1.0\proyecto e.l.f.a v1.0\array.h
+	<stdio.h>
+	<stdlib.h>
+
+1463598981 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+
+1463598542 c:\users\aníbal\desktop\proyecto e.l.f.a v1.0\array.h
+	<stdio.h>
+	<stdlib.h>
+
+1464202911 source:c:\users\matito\downloads\proyecto-e.l.f.a-v1.0-correcto\proyecto e.l.f.a v1.0 correcto\array.c
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1464201896 c:\users\matito\downloads\proyecto-e.l.f.a-v1.0-correcto\proyecto e.l.f.a v1.0 correcto\array.h
+	<stdio.h>
+	<stdlib.h>
+
+1464291892 source:c:\users\matito\downloads\proyecto-e.l.f.a-v1.0-correcto\proyecto e.l.f.a v1.0 correcto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+
+1464202911 source:c:\users\matito\documents\proyecto e.l.f.a v1.0 correcto\array.c
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1464621374 c:\users\matito\documents\proyecto e.l.f.a v1.0 correcto\array.h
+	<stdio.h>
+	<stdlib.h>
+
+1464620353 source:c:\users\matito\documents\proyecto e.l.f.a v1.0 correcto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+
+1464239422 source:c:\users\matito\downloads\proyecto-e.l.f.a-v1.0-correcto\proyecto e.l.f.a v1.0 correcto\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1464205304 c:\users\matito\downloads\proyecto-e.l.f.a-v1.0-correcto\proyecto e.l.f.a v1.0 correcto\funciones.h
+
+1464624233 source:c:\users\matito\documents\proyecto e.l.f.a v1.0 correcto\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1464624415 c:\users\matito\documents\proyecto e.l.f.a v1.0 correcto\funciones.h
+
+1464202912 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0 correcto\array.c
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1464621376 c:\users\aníbal\desktop\proyecto e.l.f.a v1.0 correcto\array.h
+	<stdio.h>
+	<stdlib.h>
+
+1464645925 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0 correcto\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1464643910 c:\users\aníbal\desktop\proyecto e.l.f.a v1.0 correcto\funciones.h
+
+1464647733 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0 correcto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1464202912 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.3\array.c
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1464621376 c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.3\array.h
+	<stdio.h>
+	<stdlib.h>
+
+1464651508 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1464643910 c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.3\funciones.h
+
+1464653627 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1464202912 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.4\array.c
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1464621376 c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.4\array.h
+	<stdio.h>
+	<stdlib.h>
+
+1464962011 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1464959916 c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.4\funciones.h
+
+1464963046 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1464202912 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.5\array.c
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1465008798 c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.5\array.h
+	<stdio.h>
+	<stdlib.h>
+
+1465007814 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1465007814 c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.5\funciones.h
+
+1465008186 source:c:\users\aníbal\desktop\proyecto e.l.f.a v1.0.5\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1464202912 source:c:\users\matito\appdata\roaming\skype\my skype received files\proyecto e.l.f.a v1.0.5(2)\proyecto e.l.f.a v1.0.5\array.c
+	"array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1465007844 c:\users\matito\appdata\roaming\skype\my skype received files\proyecto e.l.f.a v1.0.5(2)\proyecto e.l.f.a v1.0.5\array.h
+	<stdio.h>
+	<stdlib.h>
+
+1465008185 source:c:\users\matito\appdata\roaming\skype\my skype received files\proyecto e.l.f.a v1.0.5(2)\proyecto e.l.f.a v1.0.5\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1465007812 c:\users\matito\appdata\roaming\skype\my skype received files\proyecto e.l.f.a v1.0.5(2)\proyecto e.l.f.a v1.0.5\funciones.h
+
+1465007812 source:c:\users\matito\appdata\roaming\skype\my skype received files\proyecto e.l.f.a v1.0.5(2)\proyecto e.l.f.a v1.0.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1465011786 source:c:\users\josé\desktop\proyecto e.l.f.a v1.0.5.1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
+1465012398 c:\users\josé\desktop\proyecto e.l.f.a v1.0.5.1\array.h
+	<stdio.h>
+	<stdlib.h>
+
+1534569230 c:\users\josé\desktop\proyecto e.l.f.a v1.0.5.1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1465011414 source:c:\users\josé\desktop\proyecto e.l.f.a v1.0.5.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"array.h"
+	"funciones.h"
+
